@@ -15,6 +15,8 @@
 1. whois.chinaz.com
 2. whois.domaintools.com
 
+通过时光机查看和查看网站域名whois信息经常是获取CEO邮箱的有效手段。当然还可以GOOGLE去搜索。
+
 ## 获取某个网站的CEO信息
 
 谷歌搜索如：`barriersafe.com CEO OR President mail`
@@ -65,6 +67,12 @@
 - 谷歌输入：`Environstar Industrial website OR mail`(Environstar Industrial 加不加引号随便你)
 - 或者谷歌输入：`innurl:environstar website OR mail`
 
+11. 通过邮箱域名来查找
+
+    如：邮箱后缀为@microflex.com
+
+    通过这个网站https://www.email-format.com/，输入microflex.com 点击search或者回车，查找同域名相关的邮箱
+
 
 
 ## 开发信关键点
@@ -75,6 +83,8 @@
 2. 发给对的人(发之前做客户调查分析)
 3. 对方对你感兴趣(根据你对客户的了解，在开发信中合理巧妙地使用已经掌握的信息)
 4. 对方又需求增加供应商或比较价格(时机和运气，或者你能让客户产生新的需求)
+
+**高回复率 = Basic Search,Target Right (初步调查，有的放矢) + 避开SPAM过滤词 + 少图片少链接 + 好的标题 + 行文简洁清晰 + 有吸引客户的Key Point + 运气or时机（我排到最后但是占了不少权重！）**
 
 ## 有针对性的写开发信
 
@@ -211,6 +221,36 @@ So please kindly evaluate our price again. If it's really hard to work, we hope 
    (现在只能免费查看搜索结果的第一页。。多查一些信息就会跳窗口要注册收费会员！没以前免费时给力了)
 
 
+
+
+
+## 验证邮箱的有效性
+
+1. https://emailable.com/
+2. https://www.verifyemailaddress.org/
+
+
+
+
+
+## 网站追本溯源
+
+https://web.archive.org/
+
+这个网址可以看到同一个域名下的网站更新的次数和截图。
+
+每一次改版都会被记录下来，几年前是什么样子的网站，最初网站上有哪些产品(以什么产品起家)，改版了几次，添加了什么类的产品，进而可以得知公司的发展过程。另外不同时期的网站留的联系方式也不一样，可能会发现重要的联系人和邮箱。
+
+**使用：**
+
+在网页 http://web.archive.org 输入网址，按回车。
+
+
+
+## 谷歌周边
+
+1. www.google.com/trends
+2. 谷歌地图
 
 
 
